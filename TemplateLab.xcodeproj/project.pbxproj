@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C4879C2293512F10088120E /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 3C4879C1293512F10088120E /* SnapKit */; };
 		3CE1E2AE29338D9100983467 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2AD29338D9100983467 /* AppDelegate.swift */; };
 		3CE1E2B029338D9100983467 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2AF29338D9100983467 /* SceneDelegate.swift */; };
 		3CE1E2B229338D9100983467 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2B129338D9100983467 /* ViewController.swift */; };
@@ -16,6 +17,24 @@
 		3CE1E2C529338D9800983467 /* TemplateLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2C429338D9800983467 /* TemplateLabTests.swift */; };
 		3CE1E2CF29338D9800983467 /* TemplateLabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2CE29338D9800983467 /* TemplateLabUITests.swift */; };
 		3CE1E2D129338D9800983467 /* TemplateLabUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2D029338D9800983467 /* TemplateLabUITestsLaunchTests.swift */; };
+		3CE1E2DF29338F5D00983467 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 3CE1E2DE29338F5D00983467 /* Alamofire */; };
+		3CE1E2E42933910900983467 /* SimpleVerticalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2E32933910900983467 /* SimpleVerticalListView.swift */; };
+		3CE1E2E6293391C500983467 /* SIDLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2E5293391C500983467 /* SIDLButton.swift */; };
+		3CE1E2E8293391C800983467 /* ILVButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2E7293391C800983467 /* ILVButton.swift */; };
+		3CE1E2EA293391D900983467 /* ILHButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2E9293391D900983467 /* ILHButton.swift */; };
+		3CE1E2EC2933920300983467 /* DLVButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2EB2933920300983467 /* DLVButton.swift */; };
+		3CE1E2EE2933921E00983467 /* DLHButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2ED2933921E00983467 /* DLHButton.swift */; };
+		3CE1E2F1293392EA00983467 /* BottomNav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2F0293392EA00983467 /* BottomNav.swift */; };
+		3CE1E2F32933934900983467 /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2F22933934900983467 /* BaseView.swift */; };
+		3CE1E2F5293393E800983467 /* VVHButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2F4293393E800983467 /* VVHButton.swift */; };
+		3CE1E2F82933946E00983467 /* PagerHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2F72933946E00983467 /* PagerHeaderView.swift */; };
+		3CE1E2FA2933947400983467 /* PagerIndexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2F92933947400983467 /* PagerIndexView.swift */; };
+		3CE1E2FD2933973F00983467 /* LinearLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E2FC2933973F00983467 /* LinearLayout.swift */; };
+		3CE1E30529339D9400983467 /* SnapkitExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E30429339D9400983467 /* SnapkitExtension.swift */; };
+		3CE1E3072934833800983467 /* TabNav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E3062934833800983467 /* TabNav.swift */; };
+		3CE1E3092934AA2800983467 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E3082934AA2800983467 /* BaseViewController.swift */; };
+		3CE1E30B2934AAC700983467 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E30A2934AAC700983467 /* UIViewControllerExtension.swift */; };
+		3CE1E30D2934CD8B00983467 /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CE1E30C2934CD8B00983467 /* ViewExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +68,23 @@
 		3CE1E2CA29338D9800983467 /* TemplateLabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemplateLabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CE1E2CE29338D9800983467 /* TemplateLabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateLabUITests.swift; sourceTree = "<group>"; };
 		3CE1E2D029338D9800983467 /* TemplateLabUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateLabUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3CE1E2E32933910900983467 /* SimpleVerticalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleVerticalListView.swift; sourceTree = "<group>"; };
+		3CE1E2E5293391C500983467 /* SIDLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SIDLButton.swift; sourceTree = "<group>"; };
+		3CE1E2E7293391C800983467 /* ILVButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ILVButton.swift; sourceTree = "<group>"; };
+		3CE1E2E9293391D900983467 /* ILHButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ILHButton.swift; sourceTree = "<group>"; };
+		3CE1E2EB2933920300983467 /* DLVButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DLVButton.swift; sourceTree = "<group>"; };
+		3CE1E2ED2933921E00983467 /* DLHButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DLHButton.swift; sourceTree = "<group>"; };
+		3CE1E2F0293392EA00983467 /* BottomNav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomNav.swift; sourceTree = "<group>"; };
+		3CE1E2F22933934900983467 /* BaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
+		3CE1E2F4293393E800983467 /* VVHButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VVHButton.swift; sourceTree = "<group>"; };
+		3CE1E2F72933946E00983467 /* PagerHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagerHeaderView.swift; sourceTree = "<group>"; };
+		3CE1E2F92933947400983467 /* PagerIndexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagerIndexView.swift; sourceTree = "<group>"; };
+		3CE1E2FC2933973F00983467 /* LinearLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearLayout.swift; sourceTree = "<group>"; };
+		3CE1E30429339D9400983467 /* SnapkitExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapkitExtension.swift; sourceTree = "<group>"; };
+		3CE1E3062934833800983467 /* TabNav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabNav.swift; sourceTree = "<group>"; };
+		3CE1E3082934AA2800983467 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		3CE1E30A2934AAC700983467 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
+		3CE1E30C2934CD8B00983467 /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +92,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C4879C2293512F10088120E /* SnapKit in Frameworks */,
+				3CE1E2DF29338F5D00983467 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +114,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3A7951089E7EAA0B11E761A2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		3CE1E2A129338D9100983467 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +128,7 @@
 				3CE1E2C329338D9800983467 /* TemplateLabTests */,
 				3CE1E2CD29338D9800983467 /* TemplateLabUITests */,
 				3CE1E2AB29338D9100983467 /* Products */,
+				3A7951089E7EAA0B11E761A2 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,9 +145,12 @@
 		3CE1E2AC29338D9100983467 /* TemplateLab */ = {
 			isa = PBXGroup;
 			children = (
+				3CE1E30329339D8600983467 /* Extension */,
+				3CE1E2E0293390AB00983467 /* UI */,
 				3CE1E2AD29338D9100983467 /* AppDelegate.swift */,
 				3CE1E2AF29338D9100983467 /* SceneDelegate.swift */,
 				3CE1E2B129338D9100983467 /* ViewController.swift */,
+				3CE1E3082934AA2800983467 /* BaseViewController.swift */,
 				3CE1E2B329338D9100983467 /* Main.storyboard */,
 				3CE1E2B629338D9800983467 /* Assets.xcassets */,
 				3CE1E2B829338D9800983467 /* LaunchScreen.storyboard */,
@@ -127,6 +176,76 @@
 			path = TemplateLabUITests;
 			sourceTree = "<group>";
 		};
+		3CE1E2E0293390AB00983467 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E2FB2933973400983467 /* Layout */,
+				3CE1E2F62933946300983467 /* Pager */,
+				3CE1E2EF293392D600983467 /* Navs */,
+				3CE1E2E2293390B700983467 /* Buttons */,
+				3CE1E2E1293390B000983467 /* List */,
+				3CE1E2F22933934900983467 /* BaseView.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		3CE1E2E1293390B000983467 /* List */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E2E32933910900983467 /* SimpleVerticalListView.swift */,
+			);
+			path = List;
+			sourceTree = "<group>";
+		};
+		3CE1E2E2293390B700983467 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E2E7293391C800983467 /* ILVButton.swift */,
+				3CE1E2E9293391D900983467 /* ILHButton.swift */,
+				3CE1E2F4293393E800983467 /* VVHButton.swift */,
+				3CE1E2EB2933920300983467 /* DLVButton.swift */,
+				3CE1E2ED2933921E00983467 /* DLHButton.swift */,
+				3CE1E2E5293391C500983467 /* SIDLButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		3CE1E2EF293392D600983467 /* Navs */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E3062934833800983467 /* TabNav.swift */,
+				3CE1E2F0293392EA00983467 /* BottomNav.swift */,
+			);
+			path = Navs;
+			sourceTree = "<group>";
+		};
+		3CE1E2F62933946300983467 /* Pager */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E2F92933947400983467 /* PagerIndexView.swift */,
+				3CE1E2F72933946E00983467 /* PagerHeaderView.swift */,
+			);
+			path = Pager;
+			sourceTree = "<group>";
+		};
+		3CE1E2FB2933973400983467 /* Layout */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E2FC2933973F00983467 /* LinearLayout.swift */,
+			);
+			path = Layout;
+			sourceTree = "<group>";
+		};
+		3CE1E30329339D8600983467 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				3CE1E30C2934CD8B00983467 /* ViewExtension.swift */,
+				3CE1E30429339D9400983467 /* SnapkitExtension.swift */,
+				3CE1E30A2934AAC700983467 /* UIViewControllerExtension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +262,10 @@
 			dependencies = (
 			);
 			name = TemplateLab;
+			packageProductDependencies = (
+				3CE1E2DE29338F5D00983467 /* Alamofire */,
+				3C4879C1293512F10088120E /* SnapKit */,
+			);
 			productName = TemplateLab;
 			productReference = 3CE1E2AA29338D9100983467 /* TemplateLab.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +338,10 @@
 				Base,
 			);
 			mainGroup = 3CE1E2A129338D9100983467;
+			packageReferences = (
+				3CE1E2DD29338F5D00983467 /* XCRemoteSwiftPackageReference "Alamofire.git" */,
+				3C4879C0293512F10088120E /* XCRemoteSwiftPackageReference "SnapKit.git" */,
+			);
 			productRefGroup = 3CE1E2AB29338D9100983467 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -258,8 +385,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CE1E2F1293392EA00983467 /* BottomNav.swift in Sources */,
+				3CE1E2FA2933947400983467 /* PagerIndexView.swift in Sources */,
+				3CE1E2FD2933973F00983467 /* LinearLayout.swift in Sources */,
 				3CE1E2B229338D9100983467 /* ViewController.swift in Sources */,
+				3CE1E2EE2933921E00983467 /* DLHButton.swift in Sources */,
+				3CE1E2F5293393E800983467 /* VVHButton.swift in Sources */,
+				3CE1E2E8293391C800983467 /* ILVButton.swift in Sources */,
 				3CE1E2AE29338D9100983467 /* AppDelegate.swift in Sources */,
+				3CE1E30529339D9400983467 /* SnapkitExtension.swift in Sources */,
+				3CE1E2EC2933920300983467 /* DLVButton.swift in Sources */,
+				3CE1E2E42933910900983467 /* SimpleVerticalListView.swift in Sources */,
+				3CE1E3072934833800983467 /* TabNav.swift in Sources */,
+				3CE1E2EA293391D900983467 /* ILHButton.swift in Sources */,
+				3CE1E2E6293391C500983467 /* SIDLButton.swift in Sources */,
+				3CE1E30D2934CD8B00983467 /* ViewExtension.swift in Sources */,
+				3CE1E2F32933934900983467 /* BaseView.swift in Sources */,
+				3CE1E2F82933946E00983467 /* PagerHeaderView.swift in Sources */,
+				3CE1E30B2934AAC700983467 /* UIViewControllerExtension.swift in Sources */,
+				3CE1E3092934AA2800983467 /* BaseViewController.swift in Sources */,
 				3CE1E2B029338D9100983467 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -437,14 +581,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 9ZMYJ868Z4;
+				DEVELOPMENT_TEAM = 3X7NAS5X26;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TemplateLab/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -452,9 +596,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = inforest.dev.TemplateLab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -465,14 +612,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 9ZMYJ868Z4;
+				DEVELOPMENT_TEAM = 3X7NAS5X26;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TemplateLab/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -480,9 +627,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = inforest.dev.TemplateLab;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -602,6 +752,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		3C4879C0293512F10088120E /* XCRemoteSwiftPackageReference "SnapKit.git" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.1;
+			};
+		};
+		3CE1E2DD29338F5D00983467 /* XCRemoteSwiftPackageReference "Alamofire.git" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.6.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		3C4879C1293512F10088120E /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3C4879C0293512F10088120E /* XCRemoteSwiftPackageReference "SnapKit.git" */;
+			productName = SnapKit;
+		};
+		3CE1E2DE29338F5D00983467 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3CE1E2DD29338F5D00983467 /* XCRemoteSwiftPackageReference "Alamofire.git" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 3CE1E2A229338D9100983467 /* Project object */;
 }
